@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/173557815326015488)
+[![Discord Presence](https://lanyard.cnrad.dev/api/173557815326015488)](https://discord.com/users/173557815326015488)
 
 ```yaml
 frontend: react/nextjs, styled-components/tailwind, redux
