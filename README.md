@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**JitaroDsc/JitaroDsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/173557815326015488)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+frontend: react/nextjs, styled-components/tailwind, redux
+
+backend: node/fastify, postgres+prisma, redis, docker
+
+other: ventur(ed|ing) into rust, java, swift, golang, python
+```
+
+[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/cnrad&bgLeft=444444&bgRight=575fff&label=visits)](https://hits-app.vercel.app/)
